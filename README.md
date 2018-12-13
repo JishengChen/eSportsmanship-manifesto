@@ -4,6 +4,7 @@ This is my final project for data viz class and the beginning of my thesis.
 The goal of this project is to gather the community opinion and consensus on sportsmanship in eSports and illustrate the results of what eSportsmanship is to the community in a interactive map.
 
 Here is the link of the first demo:
+
 Interactive: https://editor.p5js.org/jchen56@sva.edu/full/HJoJ1HUk4 
 
 Result: https://editor.p5js.org/jchen56@sva.edu/full/SyPHyt8kE
