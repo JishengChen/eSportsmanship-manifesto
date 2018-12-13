@@ -5,6 +5,7 @@ The goal of this project is to gather the community opinion and consensus on spo
 
 Here is the link of the first demo:
 Interactive: https://editor.p5js.org/jchen56@sva.edu/full/HJoJ1HUk4 
+
 Result: https://editor.p5js.org/jchen56@sva.edu/full/SyPHyt8kE
 
 ## Project Procedure
