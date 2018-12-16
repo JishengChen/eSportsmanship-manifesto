@@ -9,6 +9,8 @@ Voting page:https://editor.p5js.org/jchen56@sva.edu/full/HJoJ1HUk4
 
 Result page:https://editor.p5js.org/jchen56@sva.edu/full/B1k51BXgE
 
+I really appreciate your help and your efforts for this class. Thank you Joey!
+
 ## Project Procedure
 ### 1. Gathering data
 I use questionaires made by Google form to gather data from the community. This should be done before this project but since I didnot have the chance to work with a community I have access to, I decieded to do a demo with my own understanding of what eSportsmanship to immitate that process.
